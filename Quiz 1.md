@@ -1,93 +1,93 @@
-Question 1
+####Question 1
 Which of the following is a principle of analytic graphics?
-
 Show multivariate data			
 Make judicious use of color in your scatterplots	Inorrect	0.00	
 Show box plots (univariate summaries)			
-Only do what your tools allow you to do			
+Only do what your tools allow you to do 	Inorrect 	0.00		
 Don't plot more than two variables at at time
 Don't plot more than two variables at at time	Inorrect	0.00
-
-Question 2
+----------------------- 
+####Question 2
 What is the role of exploratory graphs in data analysis?
-Your Answer		Score	Explanation
+ 
 Axes, legends, and other details are clean and exactly detailed.			
 They are typically made very quickly.	Correct	1.00	
 They are used in place of formal modeling.			
 They are made for formal presentations.			
-Total		1.00 / 1.00	
+-----------------------  
 
-Question 3
+####Question 3
 Which of the following is true about the base plotting system?
-Your Answer		Score	Explanation
+ 
 Margins and spacings are adjusted automatically depending on the type of plot and the data			
 Plots are typically created with a single function call			
 The system is most useful for conditioning plots			
 Plots are created and annotated with separate functions	Correct	1.00	Functions like 'plot' or 'hist' typically create the plot on the graphics device and functions like 'lines', 'text', or 'points' will annotate or add data to the plot.
-Total		1.00 / 1.00	
+-----------------------  
 
-Question 4
+####Question 4
 Which of the following is an example of a valid graphics device in R?
-Your Answer		Score	Explanation
+ 
 A file folder			
 A socket connection			
 A PNG file	Correct	1.00	
 A Microsoft Word document			
-Total		1.00 / 1.00	
+-----------------------  
 
-Question 5
+####Question 5
 Which of the following is an example of a vector graphics device in R?
 Your Answer		Score	Explanation
 JPEG			
 GIF	Inorrect	0.00	This is a bitmapped device.
 SVG		
 PNG	Inorrect	0.00	This is a bitmapped device.
-Total		0.00 / 1.00	
+-----------------------  
 
-Question 6
+####Question 6
 Bitmapped file formats can be most useful for
-Your Answer		Score	Explanation
+ 
 Scatterplots with many many points			
 Plots that require animation or interactivity			
 Plots that are not scaled to a specific resolution			
 Plots that may need to be resized	Inorrect	0.00	
 Plots that are not scaled to a specific resolution	Inorrect	0.00
-Total		0.00 / 1.00	
+----------------------- 
 
-Question 7
+####Question 7
 Which of the following functions is typically used to add elements to a plot in the base graphics system?
 Your Answer		Score	Explanation
 hist()			
 boxplot()			
 text()	Correct	1.00	
 plot()			
-Total		1.00 / 1.00	
+-----------------------  
 
-Question 8
+####Question 8
 Which function opens the screen graphics device for the Mac?
 Your Answer		Score	Explanation
 pdf()			
 bitmap()			
 png()			
-quartz()	Correct	1.00
+quartz()	Correct	1.00 
 on Windows? jpeg()	Inorrect	0.00  
-Total		1.00 / 1.00	
+on windows? xfig() 	Inorrect 	0.00
+-----------------------  
 
-Question 9
+####Question 9
 What does the 'pch' option to par() control?
-Your Answer		Score	Explanation
+ 
 the orientation of the axis labels on the plot			
 the line width in the base graphics system			
 the plotting symbol/character in the base graphics system	Correct	1.00	
 the size of the plotting symbol in a scatterplot			
-Total		1.00 / 1.00	
+-----------------------  
 
-Question 10
+####Question 10
 If I want to save a plot to a PDF file, which of the following is a correct way of doing that?
-Your Answer		Score	Explanation
+ 
 Open the screen device with quartz(), construct the plot, and then close the device with dev.off().			
 Construct the plot on the screen device and then copy it to a PDF file with dev.copy2pdf()			
 Construct the plot on the PNG device with png(), then copy it to a PDF with dev.copy2pdf().	Inorrect	0.00	
 Open the PostScript device with postscript(), construct the plot, then close the device with dev.off().	
 Construct the plot on the screen device and then copy it to a PDF file with dev.copy2pdf()	Correct	1.00
-
+----------------------- 
