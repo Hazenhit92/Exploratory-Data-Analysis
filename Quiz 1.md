@@ -6,6 +6,7 @@ Make judicious use of color in your scatterplots	Inorrect	0.00
 Show box plots (univariate summaries)			
 Only do what your tools allow you to do			
 Don't plot more than two variables at at time
+Don't plot more than two variables at at time	Inorrect	0.00
 
 Question 2
 What is the role of exploratory graphs in data analysis?
@@ -37,10 +38,10 @@ Total		1.00 / 1.00
 Question 5
 Which of the following is an example of a vector graphics device in R?
 Your Answer		Score	Explanation
-PNG			
 JPEG			
 GIF	Inorrect	0.00	This is a bitmapped device.
-SVG			
+SVG		
+PNG	Inorrect	0.00	This is a bitmapped device.
 Total		0.00 / 1.00	
 
 Question 6
@@ -50,6 +51,7 @@ Scatterplots with many many points
 Plots that require animation or interactivity			
 Plots that are not scaled to a specific resolution			
 Plots that may need to be resized	Inorrect	0.00	
+Plots that are not scaled to a specific resolution	Inorrect	0.00
 Total		0.00 / 1.00	
 
 Question 7
@@ -67,7 +69,8 @@ Your Answer		Score	Explanation
 pdf()			
 bitmap()			
 png()			
-quartz()	Correct	1.00	
+quartz()	Correct	1.00
+on Windows? jpeg()	Inorrect	0.00  
 Total		1.00 / 1.00	
 
 Question 9
@@ -85,5 +88,6 @@ Your Answer		Score	Explanation
 Open the screen device with quartz(), construct the plot, and then close the device with dev.off().			
 Construct the plot on the screen device and then copy it to a PDF file with dev.copy2pdf()			
 Construct the plot on the PNG device with png(), then copy it to a PDF with dev.copy2pdf().	Inorrect	0.00	
-Open the PostScript device with postscript(), construct the plot, then close the device with dev.off().			
-Total
+Open the PostScript device with postscript(), construct the plot, then close the device with dev.off().	
+Construct the plot on the screen device and then copy it to a PDF file with dev.copy2pdf()	Correct	1.00
+
