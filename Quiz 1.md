@@ -12,7 +12,7 @@ Don't plot more than two variables at at time	Inorrect	0.00
 What is the role of exploratory graphs in data analysis?
  
 Axes, legends, and other details are clean and exactly detailed.			
-**They are typically made very quickly.	Correct	1.00	**
+** They are typically made very quickly.	Correct	1.00	**
 They are used in place of formal modeling.			
 They are made for formal presentations.			
 
@@ -32,7 +32,7 @@ The system is most useful for conditioning plots
 Which of the following is an example of a valid graphics device in R?
  
 A file folder			
-A socket connection			
+A socket connection
 **A PNG file	Correct	1.00**	
 A Microsoft Word document			
 
