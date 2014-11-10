@@ -49,8 +49,11 @@ A Microsoft Word document
 Which of the following is an example of a vector graphics device in R?
  
 JPEG			
+
 GIF	Inorrect	0.00	This is a bitmapped device.
+
 SVG	
+
 PNG	Inorrect	0.00	This is a bitmapped device.
 ```
 Postscript 	Correct 	1.00
