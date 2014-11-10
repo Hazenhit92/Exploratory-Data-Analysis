@@ -6,6 +6,7 @@ Show box plots (univariate summaries)
 Only do what your tools allow you to do 	Inorrect 	0.00		
 Don't plot more than two variables at at time
 Don't plot more than two variables at at time	Inorrect	0.00
+
 ----------------------- 
 ####Question 2
 What is the role of exploratory graphs in data analysis?
@@ -14,6 +15,7 @@ Axes, legends, and other details are clean and exactly detailed.
 They are typically made very quickly.	Correct	1.00	
 They are used in place of formal modeling.			
 They are made for formal presentations.			
+
 -----------------------  
 
 ####Question 3
@@ -23,6 +25,7 @@ Margins and spacings are adjusted automatically depending on the type of plot an
 Plots are typically created with a single function call			
 The system is most useful for conditioning plots			
 Plots are created and annotated with separate functions	Correct	1.00	Functions like 'plot' or 'hist' typically create the plot on the graphics device and functions like 'lines', 'text', or 'points' will annotate or add data to the plot.
+
 -----------------------  
 
 ####Question 4
