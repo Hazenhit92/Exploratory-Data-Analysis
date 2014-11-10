@@ -73,7 +73,7 @@ Plots that are not scaled to a specific resolution	Inorrect	0.00
 
 ####Question 7
 Which of the following functions is typically used to add elements to a plot in the base graphics system?
-Your Answer		Score	Explanation
+ 
 hist()			
 boxplot()			
 ```
@@ -85,7 +85,7 @@ plot()
 
 ####Question 8
 Which function opens the screen graphics device for the Mac?
-Your Answer		Score	Explanation
+ 
 pdf()			
 bitmap()			
 png()			
