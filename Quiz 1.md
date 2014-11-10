@@ -13,6 +13,7 @@ What is the role of exploratory graphs in data analysis?
  
 Axes, legends, and other details are clean and exactly detailed.			
 **They are typically made very quickly.	Correct	1.00**
+
 They are used in place of formal modeling.			
 They are made for formal presentations.			
 
