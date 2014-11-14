@@ -1,5 +1,5 @@
 ####Question 1
-Which of the following is a principle of analytic graphics?
+#####Which of the following is a principle of analytic graphics?
 Show multivariate data			
 Make judicious use of color in your scatterplots	Inorrect	0.00	
 Show box plots (univariate summaries)			
